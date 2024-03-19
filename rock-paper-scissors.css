@@ -1,0 +1,32 @@
+body{
+    background-color: antiquewhite;
+    color:crimson;
+}
+.tt{
+    font-size: 30px;
+    font-weight: bold;
+}
+.rck{
+    height: 50px;            
+}
+.rbtt{
+    background-color: antiquewhite;
+    border-radius: 100%;
+    border: 2.5px solid crimson;
+    height: 80px;
+    width: 80px;
+}
+.reslt{
+    font-weight: bold;
+}
+.scre{
+    margin-top: 60px;
+    font-weight:900;
+}
+.reset{
+    background-color: green;
+    border: none;
+    font-size: 25px;
+    padding: 8px 15px;
+    color: white;
+}
